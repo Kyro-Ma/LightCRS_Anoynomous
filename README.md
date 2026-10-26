@@ -14,7 +14,7 @@ The full pipeline has three stages:
 
 ## Dataset
 
-Upon publication of our paper at The Web Conference 2027 (WWW 2027), we will publicly release the MM-R2A-25 dataset, together with documentation to support reproducibility and future research.
+The MM-R2A-25 dataset is not publicly available at this stage. We plan to release the dataset and accompanying documentation following publication to support reproducibility and future research.
 
 Extract it under `./data/` at the repository root.
 
